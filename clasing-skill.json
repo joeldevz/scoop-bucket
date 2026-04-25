@@ -1,18 +1,22 @@
 {
-  "version": "1.0.0",
-  "architecture": {
-    "64bit": {
-      "url": "https://github.com/joeldevz/skills/releases/download/v1.0.0/clasing-skill_1.0.0_windows_amd64.zip",
-      "bin": ["clasing-skill.exe"],
-      "hash": "8699e26b1ff0574534545103c1cdc1b20edc2c805851ac839305c972d75d0d2d"
+    "version": "1.0.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/joeldevz/skills/releases/download/v1.0.2/clasing-skill_1.0.2_windows_amd64.zip",
+            "bin": [
+                "clasing-skill.exe"
+            ],
+            "hash": "7661f3b4b454c7b9005a5bf578c8af3a165b37840a11bbc25f48ab6f2c3cc2da"
+        },
+        "arm64": {
+            "url": "https://github.com/joeldevz/skills/releases/download/v1.0.2/clasing-skill_1.0.2_windows_arm64.zip",
+            "bin": [
+                "clasing-skill.exe"
+            ],
+            "hash": "73820ad2993ede80862c392472e464fae29c95468ac2b81c4dd01f238a3a6921"
+        }
     },
-    "arm64": {
-      "url": "https://github.com/joeldevz/skills/releases/download/v1.0.0/clasing-skill_1.0.0_windows_arm64.zip",
-      "bin": ["clasing-skill.exe"],
-      "hash": "000f36b8e5ef2d5f5318b6be251275b1331b9c70fe51310182417c9aba54d60e"
-    }
-  },
-  "homepage": "https://github.com/joeldevz/skills",
-  "license": "MIT",
-  "description": "AI agent skills installer for OpenCode and Claude Code"
+    "homepage": "https://github.com/joeldevz/skills",
+    "license": "MIT",
+    "description": "AI agent skills installer for OpenCode and Claude Code"
 }
