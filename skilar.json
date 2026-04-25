@@ -1,0 +1,22 @@
+{
+    "version": "1.0.3",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/joeldevz/skilar/releases/download/v1.0.3/skilar_1.0.3_windows_amd64.zip",
+            "bin": [
+                "skilar.exe"
+            ],
+            "hash": "978ca7cd005387bca839992d46ff6f8e3dde77d0ac0f474be4c7765f767e4995"
+        },
+        "arm64": {
+            "url": "https://github.com/joeldevz/skilar/releases/download/v1.0.3/skilar_1.0.3_windows_arm64.zip",
+            "bin": [
+                "skilar.exe"
+            ],
+            "hash": "d0c21d71ba3ddf7109f99d621e18b59b51913efb06f1ef9add9e5f4f61b73422"
+        }
+    },
+    "homepage": "https://github.com/joeldevz/skilar",
+    "license": "MIT",
+    "description": "AI agent skills installer for OpenCode and Claude Code"
+}
