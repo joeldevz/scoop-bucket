@@ -1,19 +1,19 @@
 {
-    "version": "1.0.5",
+    "version": "1.0.6",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/joeldevz/skilar/releases/download/v1.0.5/skilar_1.0.5_windows_amd64.zip",
+            "url": "https://github.com/joeldevz/skilar/releases/download/v1.0.6/skilar_1.0.6_windows_amd64.zip",
             "bin": [
                 "skilar.exe"
             ],
-            "hash": "d30d1ea046d7f85199a45d69f208db9dba9667cae7da2b3fa538d5d2202cee86"
+            "hash": "cf9db4db12b8ba8da0c1a1b618e585a6b45da147b3711f8aeeb1cc77ebff1f06"
         },
         "arm64": {
-            "url": "https://github.com/joeldevz/skilar/releases/download/v1.0.5/skilar_1.0.5_windows_arm64.zip",
+            "url": "https://github.com/joeldevz/skilar/releases/download/v1.0.6/skilar_1.0.6_windows_arm64.zip",
             "bin": [
                 "skilar.exe"
             ],
-            "hash": "1089717cdcc067c927d44d4957b022666140da88569c5e7ae1e4252592c4fbed"
+            "hash": "4f1dfcd5f4f432712dc6091442aaa93e021135f26e8569577b189c2b0dc997c2"
         }
     },
     "homepage": "https://github.com/joeldevz/skilar",
