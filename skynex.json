@@ -1,0 +1,22 @@
+{
+    "version": "1.2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/joeldevz/skynex/releases/download/v1.2.0/skynex_1.2.0_windows_amd64.zip",
+            "bin": [
+                "skynex.exe"
+            ],
+            "hash": "56439313d8d29d17d029ac7d1ffb03d2228f39f1ce26cabd46459a67caecd67f"
+        },
+        "arm64": {
+            "url": "https://github.com/joeldevz/skynex/releases/download/v1.2.0/skynex_1.2.0_windows_arm64.zip",
+            "bin": [
+                "skynex.exe"
+            ],
+            "hash": "c1d19ce6cf9dfc72d98f654349936453890586133846c9af77bf678d58b13af3"
+        }
+    },
+    "homepage": "https://github.com/joeldevz/skynex",
+    "license": "MIT",
+    "description": "AI agent skills installer for OpenCode and Claude Code"
+}
