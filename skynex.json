@@ -1,19 +1,19 @@
 {
-    "version": "1.2.1",
+    "version": "1.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/joeldevz/skynex/releases/download/v1.2.1/skynex_1.2.1_windows_amd64.zip",
+            "url": "https://github.com/joeldevz/skynex/releases/download/v1.3.0/skynex_1.3.0_windows_amd64.zip",
             "bin": [
                 "skynex.exe"
             ],
-            "hash": "0059e79eb6dd095c8d04b4a33835df980e7c9a8f74fab1ce6f432457a0c304e2"
+            "hash": "6d49763b69ab13b9c71d199896e3a91136543354edfd5f94bdf2f91135b14cd8"
         },
         "arm64": {
-            "url": "https://github.com/joeldevz/skynex/releases/download/v1.2.1/skynex_1.2.1_windows_arm64.zip",
+            "url": "https://github.com/joeldevz/skynex/releases/download/v1.3.0/skynex_1.3.0_windows_arm64.zip",
             "bin": [
                 "skynex.exe"
             ],
-            "hash": "361b2a2dffc83bffbf8f0dec90bf457337d991d25e70be87c10458b1cb04562b"
+            "hash": "68594b7a1ca965b2a2e72c9e45006b01ba52729125ff7f0496c605261ff62ce9"
         }
     },
     "homepage": "https://github.com/joeldevz/skynex",
